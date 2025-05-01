@@ -20,3 +20,7 @@ Ataque: clique para lançar magia.
 
 Objetivo: Derrote o máximo de goblins possível para aumentar sua pontuação.
 
+Aplicação à integração: ![Aplicação a integração](https://github.com/user-attachments/assets/d0fb8fc6-75ca-4db7-b38d-445f86cf2cdc)
+
+Funcionamento do DB firebase: 
+![Funcionamento FireBase](https://github.com/user-attachments/assets/8b1ce048-0fea-4c66-9bb2-a77af89d9d1d)
